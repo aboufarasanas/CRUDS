@@ -210,4 +210,4 @@ function searchProduct(value){
     document.getElementById('tbody').innerHTML = table;
 }
 
-// clean data
+// clean data (It was done at create product)
